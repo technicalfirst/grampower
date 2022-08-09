@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "462042",
+            "title": "Utility",
+            "desc": "Radically reduce distribution losses with our smart meter and grid management portal",
+            "logo": "https://grampower.com/static/images/Home-Utilites.png",
+            "bg": "https://grampower.com/static/images/utilitiesbg.png",
+            "btn_status": "true"
+        },
+        {
+            "id": "462043",
+            "title": "Restaurants, Hotels and Offices",
+            "desc": "Save upto 30% of your power bill in a month with our smart meter and advance analytics",
+            "logo": "https://grampower.com/static/images/Home-Report.png",
+            "bg": "https://grampower.com/static/images/retailbg.jpg",
+            "btn_status": "false"
+        },
+        {
+            "id": "462044",
+            "title": "Residential Buildings",
+            "desc": "Simplify management of your property's electricity with our smart prepaid meters",
+            "logo": "https://grampower.com/static/images/Prepaid-Home.png",
+            "bg": "https://grampower.com/static/images/realestatebg.png",
+            "btn_status": "true"
+        },
+        {
+            "id": "462045",
+            "title": "Industries",
+            "desc": "Control your complete production plant at your fingertips",
+            "logo": "https://grampower.com/static/images/Home-Industrial.png",
+            "bg": "https://grampower.com/static/images/industriesbg.jpg",
+            "btn_status": "true"
+        },
+        {
+            "id": "462046",
+            "title": "Hotels and Society",
+            "desc": "reduce distribution losses with our smart meter and grid management portal. omplete production plant at your fingertips",
+            "logo": "https://www.kindpng.com/picc/m/55-559959_building-vector-images-hd-hd-png-download.png",
+            "bg": "https://grampower.com/static/images/retailbg.jpg",
+            "btn_status": "false"
+        }
+    ]
+}
